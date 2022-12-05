@@ -1,0 +1,176 @@
+body {
+    
+    background-image:url("yuki.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+li {
+    list-style: none;
+   }
+
+.header {
+    
+    height:65vh;
+    /*
+    background-image:url("yuki.jpg");
+    background-size: 100%;
+
+    background-image:url("yuki.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+    */
+    
+}
+
+
+.header-list li{
+    float: left;
+    padding: 33px;
+    padding-left: 40px;
+}
+
+
+
+.header-logo {
+    float: left;
+    font-size: 40px;
+    padding: 20px 40px;
+}
+
+.new {
+    width:30%;
+    height:17%;
+    margin-left:70px;
+    background-color: aliceblue;
+    font-family:serif;
+   }
+
+.main {
+    height:auto;
+
+}
+.contents{
+    margin:100px;
+}
+
+.contents h1{
+    text-align:center;
+    font-family:serif;
+    font-size: 40px;
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.contents p{
+    font-family:serif;
+    font-size: 20px;
+    padding: 10px;
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+.product{
+    
+    margin:80px 40px;
+}
+.product h1{
+    color:#3b5998;
+    padding-left:80px;
+}
+.product-item {
+    padding-bottom:80px;
+    float:left;
+    padding-left:80px;
+    text-align:center;
+}
+.footer1 {
+    margin-top: 40px;
+    padding-left:80px;
+    height: auto;
+    
+    width: 1000px;
+	margin: auto;
+	overflow: hidden;
+}
+
+.footer1-list li{
+    
+    float:left;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+    overflow: hidden;
+    
+}
+.btn{
+padding: 8px 24px;
+color: white;
+display: inline-block;
+opacity: 0.8;
+border-radius: 4px;
+}
+
+.signup {
+    background-color:#239b76;
+  }
+  
+  
+  /* facebookクラスのCSSを指定してください */
+  .facebook {
+    background-color:#3b5998;
+    margin-right:10px;
+  }
+  
+  /* twitterクラスのCSSを指定してください */
+  .twitter {
+    background-color:#55acee;
+    
+  }
+
+  .list {
+    color:darkslategray;
+  }
+
+
+
+.footer1{
+    height: 90px;
+    padding-bottom:40px;
+    
+}
+
+.footer2-list li{
+    
+    float:left;
+    width: 200px;
+    margin: auto;
+    overflow: hidden;
+}
+
+.footer3 {
+    height:90px;
+    padding:40px;
+    background-color:darkslategray;
+    color: white;
+}
+
+.footer3-logo {
+    float:left;
+    font-size:32px;
+}
+
+.footer3-list {
+    float:right;
+    
+}
+
+.footer3-list li {
+    padding-bottom:20px;
+}
+
+
+
