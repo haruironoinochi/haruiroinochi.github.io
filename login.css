@@ -1,0 +1,98 @@
+.btn{
+    padding: 8px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+    }
+    
+    li {
+        list-style: none;
+       }
+    .list {
+        color:darkslategray;
+      }
+
+    
+    .header {
+        
+        height:100px;
+        background-image:url("yuki.jpg");
+        background-size: 100%;
+
+        /*
+        background-image:url("yuki.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        */
+        
+    }
+    
+    .header-list li{
+        float: left;
+        padding: 33px;
+        padding-left: 40px;
+    }
+    
+    
+    
+    .header-logo {
+        float: left;
+        font-size: 40px;
+        padding: 20px 40px;
+    }
+    
+    
+    
+    .main {
+        height:1000px;
+        
+    }
+
+    .dai {
+        background-color:rgb(148, 177, 229);
+        width:100%;
+        height:100px;
+        text-align:center;
+        color:white;
+        font-family:serif;
+    }
+    .dai h1{
+        display: inline-block;
+        text-align: center;
+        padding-right: 100px;
+    }
+
+    .footer2 {
+        height: 90px;
+        padding:40px;
+        
+    }
+    
+    .footer2-list li{
+        
+        float:left;
+        width: 200px;
+        margin: auto;
+        overflow: hidden;
+    }
+    
+    .footer3 {
+        height:90px;
+        padding:40px;
+    }
+    
+    .footer3-logo {
+        float:left;
+        font-size:32px;
+    }
+    
+    .footer3-list {
+        float:right;
+        
+    }
+    
+    .footer3-list li {
+        padding-bottom:20px;
+    }
